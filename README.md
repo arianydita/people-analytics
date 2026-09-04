@@ -1,6 +1,6 @@
 # README
 
-#HR People Analytics Dashboard: Employee Demographics
+# HR People Analytics Dashboard: Employee Demographics
 
 ## Overview
 
